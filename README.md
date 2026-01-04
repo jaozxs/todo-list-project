@@ -14,7 +14,7 @@ manipulação do DOM e organização de código.
 - Marcar como concluída
 
 ## 🌐 Demo
-(Depois você coloca o link do GitHub Pages aqui)
+https://jaozxs.github.io/todo-list-project/
 
 ## 💻 Código
 https://github.com/jaozxs/todo-list-project
